@@ -1,6 +1,6 @@
 # SwitchSelector
 
-Switch Selector to React Native.
+Switch Selector to React Native. (this is a clone from https://github.com/App2Sales/react-native-switch-selector) 
 
 [![npm version](https://badge.fury.io/js/react-native-switch-selector.svg)](https://badge.fury.io/js/react-native-switch-selector)
 [![downloads](https://img.shields.io/npm/dm/react-native-switch-selector.svg)](https://www.npmjs.com/package/react-native-switch-selector)
